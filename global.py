@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by: Jenoe Balote
-# Created on: April 2020
+# Created on: April 2021
 # This program shows how local and global variables work
 
 # global variable
